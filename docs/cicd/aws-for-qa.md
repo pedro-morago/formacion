@@ -2,7 +2,7 @@
 
 The environments you test against increasingly live in the cloud. A QA doesn't need to be an AWS architect, but does need bearings: knowing **where the logs, the data and the artifacts are**, and moving through them without depending on anyone.
 
-## The five services a QA actually touches
+## The five services a QA actually touchess
 
 | Service | What it is | What a QA uses it for |
 |---|---|---|
